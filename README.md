@@ -1,4 +1,4 @@
-# Personal Photo Diray 
+Personal Photo Diray 
 
 ## Intriduction
   Team 3
