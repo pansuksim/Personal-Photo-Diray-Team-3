@@ -2,8 +2,7 @@
 
 ### Intriduction
   Team 3
-    Information and Communication Engineering 
-  2019112129 심판석  /   2020112115 한병헌
+    Information and Communication Engineering   2019112129 심판석  /   2020112115 한병헌
 
 
 
