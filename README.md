@@ -1,6 +1,6 @@
 # Personal Photo Diray 
 
-### Intriduction
+### Introduction
   Team 3
   
     Information and Communication Engineering   
