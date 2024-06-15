@@ -9,7 +9,11 @@
 
 ### Functional Requirments
 1. Sign up, Sign out, Sign in
+ 
 2. Photo upload, Edit, See in profile
+ 
 3. Search keyword
+ 
 4. Message send, Message delete, Message redirect
+ 
 5. Send Direct Message in Photo
