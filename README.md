@@ -7,32 +7,7 @@
     
     2019112129 심판석  /   2020112115 한병헌
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Functional Requirments
+### Functional Requirments
 1. Sign up, Sign out, Sign in
 2. Photo upload, Edit, See in profile
 3. Search keyword
