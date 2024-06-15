@@ -1,1 +1,3 @@
-# Personal-Photo-Diray-Team-3
+# Personal Photo Diray Team 3
+
+## Intriduction
