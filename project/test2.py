@@ -136,7 +136,6 @@ def upload_photo():
                 print(f"File saved to: {file_path}")
                 photo_url = url_for('static', filename='uploads/' + filename)
 
-                # 디버그 메시지 추가
                 print("Inserting photo data into MongoDB:", {
                     'username': session['username'],
                     'description': description,
@@ -147,7 +146,7 @@ def upload_photo():
                 photos_collection.insert_one({
                     'username': session['username'],
                     'description': description,
-                    'keywords': keywords.split(','),  # 키워드를 리스트로 저장
+                    'keywords': keywords.split(','),
                     'photo_url': photo_url
                 })
                 print("Photo inserted into MongoDB")
@@ -243,7 +242,6 @@ def profile():
     try:
         if photos_collection is not None:
             user_photos = list(photos_collection.find({'username': session['username']}))
-            # 가져온 데이터를 콘솔에 출력
             print("User photos:", user_photos)
         else:
             user_photos = []
