@@ -1,7 +1,7 @@
 # Personal Photo Diray 
 
 ### Introduction
-  Team 3
+    Team 3
   
     Information and Communication Engineering   
     
